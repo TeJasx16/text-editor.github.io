@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text-editor.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/text-editor.github.io/static/js/main.1dcbf045.js",
+    "static/js/787.719ec76d.chunk.js": "/text-editor.github.io/static/js/787.719ec76d.chunk.js",
+    "index.html": "/text-editor.github.io/index.html",
+    "main.e6c13ad2.css.map": "/text-editor.github.io/static/css/main.e6c13ad2.css.map",
+    "main.1dcbf045.js.map": "/text-editor.github.io/static/js/main.1dcbf045.js.map",
+    "787.719ec76d.chunk.js.map": "/text-editor.github.io/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1dcbf045.js"
+  ]
+}

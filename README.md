@@ -1,3 +1,6 @@
+
+https://tejasx16.github.io/text-editor.github.io/ live on
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
